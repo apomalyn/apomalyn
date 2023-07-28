@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Xavier
-#### I am Software developer (soon engineer!!)
-![I am student in Software engineering](https://raw.githubusercontent.com/apomalyn/apomalyn/main/Twitter%20banner.png)
+![](https://raw.githubusercontent.com/apomalyn/apomalyn/main/Twitter%20banner.png)
 
-- 🔭 I’m currently working on [ÉTSMobile](https://github.com/ApplETS/Notre-Dame), a mobile application for the student of the ÉTS
-- 🌱 I’m currently learning TS, Rust and Flutter
+### Hi there 👋, my name is Xavier
+#### I am a software developer (soon engineer!!)
+
+- 🔭 I’m currently working at Zendesk, in the Labs division for innovating on customer experience (CX)
+- I love mobile and embedded-software development
+- 🌱 I’m currently learning TS, Go and Japanese 🇯🇵!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=apomalyn&show_icons=true)  
 
